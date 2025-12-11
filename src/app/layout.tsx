@@ -25,6 +25,9 @@ export const metadata: Metadata = {
     title: "Ajay Darisi | Software Developer",
     description: "Portfolio of Ajay Darisi - Software Developer specializing in ReactJS, NextJS, and Scalable Web Architectures.",
   },
+  icons: {
+    icon: '/favicon.png',
+  },
 };
 
 export default function RootLayout({
